@@ -1,0 +1,1 @@
+In mathematics, and more specifically in algebra, a ring is an algebraic structure with operations generalizing the arithmetic operations of addition and multiplication. By means of this generalization, theorems from the algebra of arithmetic are extended to non-numerical objects like polynomials, series, matrices and functions.
